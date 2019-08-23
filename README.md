@@ -8,8 +8,8 @@ Teacher will be able to post announcement, notice and share files. Student who h
 Requirements:
 
 Python (min 2.7)
-Django
-pillow 
+,Django
+,pillow 
 
 In order to run this project, clone the full repo
 then using windows power shell go to that director 
